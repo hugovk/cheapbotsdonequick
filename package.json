@@ -1,0 +1,23 @@
+{
+  "name": "cheapbotsdonequick",
+  "version": "0.0.1",
+  "description": "Source code for bots hosted on Cheap Bots, Done Quick!",
+  "devDependencies": {
+    "grunt": "^0.4.3",
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-cli": "^0.1.13"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugovk/cheapbotsdonequick.git"
+  },
+  "author": "hugovk",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/hugovk/cheapbotsdonequick/issues"
+  },
+  "homepage": "https://github.com/hugovk/cheapbotsdonequick"
+}
