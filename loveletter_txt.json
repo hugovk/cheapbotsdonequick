@@ -1,0 +1,226 @@
+{
+  "origin": [
+    "#start#,\n#sentences#.\n#end#"
+  ],
+
+  "start": [
+    "#SALUTATIONS1# #SALUTATIONS2#"
+    ],
+  "end": [
+    "YOURS #ADVERBS#,\nM.U.C."
+    ],
+
+"sentences": [
+  "#4sentences#",
+  "#3sentences#",
+  "#3sentences#",
+  "#3sentences#",
+  "#2sentences#",
+  "#2sentences#",
+  "#1sentence#"
+],
+
+  "5sentences": [
+     "#first_type#. #first_type#. #first_type#. #first_type#. #first_type#",
+     "#first_type#. #first_type#. #first_type#. #first_type#. #second_type_with#",
+     "#first_type#. #first_type#. #first_type#. #second_type_with#. #first_type#",
+     "#first_type#. #first_type#. #first_type#. #second_type_with#, #second_type_without#",
+     "#first_type#. #first_type#. #second_type_with#. #first_type#. #first_type#",
+     "#first_type#. #first_type#. #second_type_with#. #first_type#. #second_type_with#",
+     "#first_type#. #first_type#. #second_type_with#, #second_type_without#. #first_type#",
+     "#first_type#. #first_type#. #second_type_with#, #second_type_without#, #second_type_without#",
+     "#first_type#. #second_type_with#. #first_type#. #first_type#. #first_type#",
+     "#first_type#. #second_type_with#. #first_type#. #first_type#. #second_type_with#",
+     "#first_type#. #second_type_with#. #first_type#. #second_type_with#. #first_type#",
+     "#first_type#. #second_type_with#. #first_type#. #second_type_with#, #second_type_without#",
+     "#first_type#. #second_type_with#, #second_type_without#. #first_type#. #first_type#",
+     "#first_type#. #second_type_with#, #second_type_without#. #first_type#. #second_type_with#",
+     "#first_type#. #second_type_with#, #second_type_without#, #second_type_without#. #first_type#",
+     "#first_type#. #second_type_with#, #second_type_without#, #second_type_without#. #second_type_without#",
+     "#second_type_with#. #first_type#. #first_type#. #first_type#. #first_type#",
+     "#second_type_with#. #first_type#. #first_type#. #first_type#. #second_type_with#",
+     "#second_type_with#. #first_type#. #first_type#. #second_type_with#. #first_type#",
+     "#second_type_with#. #first_type#. #first_type#. #second_type_with#, #second_type_without#",
+     "#second_type_with#. #first_type#. #second_type_with#. #first_type#. #first_type#",
+     "#second_type_with#. #first_type#. #second_type_with#. #first_type#. #second_type_with#",
+     "#second_type_with#. #first_type#. #second_type_with#, #second_type_without#. #first_type#",
+     "#second_type_with#. #first_type#. #second_type_with#, #second_type_without#, #second_type_without#",
+     "#second_type_with#, #second_type_without#. #first_type#. #first_type#. #first_type#",
+     "#second_type_with#, #second_type_without#. #first_type#. #first_type#. #second_type_with#",
+     "#second_type_with#, #second_type_without#. #first_type#. #second_type_with#. #first_type#",
+     "#second_type_with#, #second_type_without#. #first_type#. #second_type_with#, #second_type_without#",
+     "#second_type_with#, #second_type_without#, #second_type_without#. #first_type#. #first_type#",
+     "#second_type_with#, #second_type_without#, #second_type_without#. #first_type#. #second_type_with#",
+     "#second_type_with#, #second_type_without#, #second_type_without#. #second_type_without#. #first_type#",
+     "#second_type_with#, #second_type_without#, #second_type_without#. #second_type_without#, #second_type_without#"
+    ],
+
+    "4sentences": [
+     "#first_type#. #first_type#. #first_type#. #first_type#",
+     "#first_type#. #first_type#. #first_type#. #second_type_with#",
+     "#first_type#. #first_type#. #second_type_with#. #first_type#",
+     "#first_type#. #first_type#. #second_type_with#, #second_type_without#",
+     "#first_type#. #second_type_with#. #first_type#. #first_type#",
+     "#first_type#. #second_type_with#. #first_type#. #second_type_with#",
+     "#first_type#. #second_type_with#, #second_type_without#. #first_type#",
+     "#first_type#. #second_type_with#, #second_type_without#, #second_type_without#",
+     "#second_type_with#. #first_type#. #first_type#. #first_type#",
+     "#second_type_with#. #first_type#. #first_type#. #second_type_with#",
+     "#second_type_with#. #first_type#. #second_type_with#. #first_type#",
+     "#second_type_with#. #first_type#. #second_type_with#, #second_type_without#",
+     "#second_type_with#, #second_type_without#. #first_type#. #first_type#",
+     "#second_type_with#, #second_type_without#. #first_type#. #second_type_with#",
+     "#second_type_with#, #second_type_without#, #second_type_without#. #first_type#",
+     "#second_type_with#, #second_type_without#, #second_type_without#, #second_type_without#"
+     ],
+     "3sentences": [
+     "#first_type#. #first_type#. #first_type#",
+     "#first_type#. #first_type#. #second_type_with#",
+     "#first_type#. #second_type_with#. #first_type#",
+     "#first_type#. #second_type_with#, #second_type_without#",
+     "#second_type_with#. #first_type#. #first_type#",
+     "#second_type_with#. #first_type#. #second_type_with#",
+     "#second_type_with#, #second_type_without#. #first_type#",
+     "#second_type_with#, #second_type_without#, #second_type_without#"
+     ],
+     "2sentences": [
+     "#first_type#. #first_type#",
+     "#first_type#. #second_type_with#",
+     "#second_type_with#. #first_type#",
+     "#second_type_with#, #second_type_without#"
+     ],
+     "1sentence": [
+     "#first_type#",
+     "#second_type_with#"
+  ],
+
+  "first_type": [
+    "MY #ADJECTIVES# #NOUNS# #ADVERBS# #VERBS# YOUR #ADJECTIVES# #NOUNS#",
+    "MY #NOUNS# #VERBS# YOUR #NOUNS#"
+    ],
+  "second_type_with": [
+    "YOU ARE MY #ADJECTIVES# #NOUNS#"
+    ],
+  "second_type_without": [
+    "MY #ADJECTIVES# #NOUNS#"
+    ],
+
+
+"SALUTATIONS1": [
+    "BELOVED",
+    "DARLING",
+    "DEAR",
+    "DEAREST",
+    "FANCIFUL",
+    "HONEY"],
+
+"SALUTATIONS2": [
+    "CHICKPEA",
+    "DEAR",
+    "DUCK",
+    "JEWEL",
+    "LOVE",
+    "MOPPET",
+    "SWEETHEART"],
+
+"ADJECTIVES": [
+    "AFFECTIONATE",
+    "AMOROUS",
+    "ANXIOUS",
+    "AVID",
+    "BEAUTIFUL",
+    "BREATHLESS",
+    "BURNING",
+    "COVETOUS",
+    "CRAVING",
+    "CURIOUS",
+    "EAGER",
+    "FERVENT",
+    "FONDEST",
+    "LOVEABLE",
+    "LOVESICK",
+    "LOVING",
+    "PASSIONATE",
+    "PRECIOUS",
+    "SEDUCTIVE",
+    "SWEET",
+    "SYMPATHETIC",
+    "TENDER",
+    "UNSATISFIED",
+    "WINNING",
+    "WISTFUL"],
+
+"NOUNS": [
+    "ADORATION",
+    "AFFECTION",
+    "AMBITION",
+    "APPETITE",
+    "ARDOUR",
+    "BEING",
+    "BURNING",
+    "CHARM",
+    "CRAVING",
+    "DESIRE",
+    "DEVOTION",
+    "EAGERNESS",
+    "ENCHANTMENT",
+    "ENTHUSIASM",
+    "FANCY",
+    "FELLOW FEELING",
+    "FERVOUR",
+    "FONDNESS",
+    "HEART",
+    "HUNGER",
+    "INFATUATION",
+    "LITTLE LIKING",
+    "LONGING",
+    "LOVE",
+    "LUST",
+    "PASSION",
+    "RAPTURE",
+    "SYMPATHY",
+    "THIRST",
+    "WISH",
+    "YEARNING"],
+
+"ADVERBS": [
+    "AFFECTIONATELY",
+    "ARDENTLY",
+    "ANXIOUSLY",
+    "BEAUTIFULLY",
+    "BURNINGLY",
+    "COVETOUSLY",
+    "CURIOUSLY",
+    "EAGERLY",
+    "FERVENTLY",
+    "FONDLY",
+    "IMPATIENTLY",
+    "KEENLY",
+    "LOVINGLY",
+    "PASSIONATELY",
+    "SEDUCTIVELY",
+    "TENDERLY",
+    "WISTFULLY"],
+
+"VERBS": [
+    "ADORES",
+    "ATTRACTS",
+    "CLINGS TO",
+    "HOLDS DEAR",
+    "HOPES FOR",
+    "HUNGERS FOR",
+    "LIKES",
+    "LONGS FOR",
+    "LOVES",
+    "LUSTS AFTER",
+    "PANTS FOR",
+    "PINES FOR",
+    "SIGHS FOR",
+    "TEMPTS",
+    "THIRSTS FOR",
+    "TREASURES",
+    "YEARNS FOR",
+    "WOOS"]
+
+
+}
