@@ -1,0 +1,23 @@
+{
+  "note:": ["Different number of spaces, to avoid duplicated tweets"],
+
+  
+  "origin": [
+    "What Fresh Hell?#space##space#"
+  ],
+  "space": [
+    "",
+    " ",
+    "  ",
+    "   ",
+    "    ",
+    "     ",
+    "      ",
+    "       ",
+    "        ",
+    "         ",
+    "          ",
+    "           ",
+    "            "
+  ]
+}
