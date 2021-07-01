@@ -1,6 +1,6 @@
 # cheapbotsdonequick
 
-[![Build Status](https://travis-ci.org/hugovk/cheapbotsdonequick.svg?branch=master)](https://travis-ci.org/hugovk/cheapbotsdonequick)
+[![Lint](https://github.com/hugovk/cheapbotsdonequick/actions/workflows/lint.yml/badge.svg)](https://github.com/hugovk/cheapbotsdonequick/actions/workflows/lint.yml)
 
 Source code for bots hosted on [Cheap Bots, Done Quick!](https://cheapbotsdonequick.com/)
 

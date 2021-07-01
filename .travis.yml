@@ -1,8 +1,0 @@
-language: generic
-
-install:
-  - npm install
-
-script:
-  # JSON Lint:
-  - grunt
