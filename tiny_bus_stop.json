@@ -11,14 +11,14 @@
   "person": ["#person1#", "#person2#", "#person3#"],
 
   "person1": ["#person1base##skintone##zwj##gender##vs16#"],
-  "person1base": ["🚶", "🏃"],
+  "person1base": ["🚶", "🏃", "🧍", "🧎"],
 
   "person2": ["#person2base##skintone#"],
   "_person2base-comment": ["Omit Woman in Business Suit Levitating: 'This Emoji ZWJ Sequence has not been Recommended For General Interchange (RGI) by Unicode. Expect limited cross-platform support'"],
   "person2base": ["💃", "🕺", "🕴"],
 
-  "_holding-hands-comment": "Skin tone is new in Emoji 12.0 in 2019, will wait longer for wider support",
-  "person3": ["👫","👬","👭"],
+  "person3": ["#person3base##skintone#"],
+  "person3base": ["👫","👬","👭"],
 
   "skintone": ["", "🏻", "🏼", "🏽", "🏾", "🏿"],
   "zwj": ["‍"],
