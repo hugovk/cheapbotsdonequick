@@ -8,7 +8,7 @@
   "gap": ["　"],
   "house": ["🏛", "🏚", "🏠", "🏡","⛪", "🕌", "🕍", "🏢", "🏣", "🏤", "🏥","🏦","🏨","🏩","🏪","🏫","🏬"],
 
-  "person": ["#person1#", "#person2#", "#person3#"],
+  "person": ["#person1#", "#person2#", "#person3#", "#person4#"],
 
   "person1": ["#person1base##skintone##zwj##gender##vs16#"],
   "person1base": ["🚶", "🏃", "🧍", "🧎"],
@@ -19,6 +19,10 @@
 
   "person3": ["#person3base##skintone#"],
   "person3base": ["👫","👬","👭"],
+
+  "person4": ["#person4base##zwj##person4thing#"],
+  "person4base": ["🧑#skintone#"],
+  "person4thing": ["🦯", "🦼", "🦽"],
 
   "skintone": ["", "🏻", "🏼", "🏽", "🏾", "🏿"],
   "zwj": ["‍"],
