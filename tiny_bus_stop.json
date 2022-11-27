@@ -17,18 +17,14 @@
   "_person2base-comment": ["Omit Woman in Business Suit Levitating: 'This Emoji ZWJ Sequence has not been Recommended For General Interchange (RGI) by Unicode. Expect limited cross-platform support'"],
   "person2base": ["💃", "🕺", "🕴"],
 
-  "person3": ["#person3a#", "#person3b#"],
-  "person3a": ["#person3a_base##skintone2##zwj#🤝#zwj##person3a_base##skintone2#"],
-  "person3a_base": ["🧑"],
-  "person3b": ["#person3b_base##skintone2##zwj#🤝#zwj##person3b_base##skintone2#"],
-  "person3b_base": ["👨", "👩"],
+  "person3": ["#person3base##skintone#"],
+  "person3base": ["👫","👬","👭"],
 
   "person4": ["#person4base##zwj##person4thing#"],
   "person4base": ["🧑#skintone#"],
   "person4thing": ["🦯", "🦼", "🦽"],
 
   "skintone": ["", "🏻", "🏼", "🏽", "🏾", "🏿"],
-  "skintone2": ["🏻", "🏼", "🏽", "🏾", "🏿"],
   "zwj": ["‍"],
   "_gender-comment": "Non-gendered version omitted because: 'Person Walking/Running: This emoji does not specify a gender, but is shown as a man on most platforms'",
   "gender": ["♀️", "♂️"],
